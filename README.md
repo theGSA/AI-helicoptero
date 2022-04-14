@@ -1,5 +1,5 @@
 # AI-helicoptero
-- projeto desenvolvido em python para a disciplina de inteligencia articial
+- projeto desenvolvido em python para a disciplina de inteligencia artificial.
 - o projeto tem como objetivo criar um agente e um ambiente.
 - o objetivo do agente é buscar e apagar o fogo nas arvares
 - foi utilizada a biblioteca pygame
